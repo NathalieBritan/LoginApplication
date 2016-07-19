@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167836196377",
+    "project_id": "loginapplication-1376"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167836196377:android:253f79574dada74e",
+        "android_client_info": {
+          "package_name": "com.example.ruslan.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167836196377-t3h9knfk02f9ldu234a9snul6jgpk785.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruslan.loginapplication",
+            "certificate_hash": "23C28B297DE7DD492F2246685E14CE750D78C49B"
+          }
+        },
+        {
+          "client_id": "167836196377-ifvt30d74krqbub3blr4p6u7qv52t01r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpD5UjJjGVe7EDGmW2vY_e9Rmrojq36ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
